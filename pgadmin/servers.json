@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "finops",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "finops",
+      "Username": "finops",
+      "SSLMode": "prefer"
+    }
+  }
+}
